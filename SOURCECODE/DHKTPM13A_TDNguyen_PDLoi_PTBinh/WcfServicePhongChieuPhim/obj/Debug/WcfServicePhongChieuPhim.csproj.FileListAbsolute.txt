@@ -1,0 +1,79 @@
+E:\N\ki 2 2019\Kien truc\Tai Lieu\BTLKT\DHKTPM13A_TDNguyen_PDLoi_PTBinh\WcfServicePhongChieuPhim\obj\Debug\WcfServicePhongChieuPhim.csprojAssemblyReference.cache
+E:\N\ki 2 2019\Kien truc\Tai Lieu\BTLKT\DHKTPM13A_TDNguyen_PDLoi_PTBinh\WcfServicePhongChieuPhim\obj\Debug\WcfServicePhongChieuPhim.csproj.CoreCompileInputs.cache
+E:\N\ki 2 2019\Kien truc\Tai Lieu\BTLKT\DHKTPM13A_TDNguyen_PDLoi_PTBinh\WcfServicePhongChieuPhim\bin\Debug\WcfServicePhongChieuPhim.dll.config
+E:\N\ki 2 2019\Kien truc\Tai Lieu\BTLKT\DHKTPM13A_TDNguyen_PDLoi_PTBinh\WcfServicePhongChieuPhim\bin\Debug\WcfServicePhongChieuPhim.dll
+E:\N\ki 2 2019\Kien truc\Tai Lieu\BTLKT\DHKTPM13A_TDNguyen_PDLoi_PTBinh\WcfServicePhongChieuPhim\bin\Debug\WcfServicePhongChieuPhim.pdb
+E:\N\ki 2 2019\Kien truc\Tai Lieu\BTLKT\DHKTPM13A_TDNguyen_PDLoi_PTBinh\WcfServicePhongChieuPhim\bin\Debug\CodeFirst_DAL.dll
+E:\N\ki 2 2019\Kien truc\Tai Lieu\BTLKT\DHKTPM13A_TDNguyen_PDLoi_PTBinh\WcfServicePhongChieuPhim\bin\Debug\Entities.dll
+E:\N\ki 2 2019\Kien truc\Tai Lieu\BTLKT\DHKTPM13A_TDNguyen_PDLoi_PTBinh\WcfServicePhongChieuPhim\bin\Debug\EntityFramework.dll
+E:\N\ki 2 2019\Kien truc\Tai Lieu\BTLKT\DHKTPM13A_TDNguyen_PDLoi_PTBinh\WcfServicePhongChieuPhim\bin\Debug\EntityFramework.SqlServer.dll
+E:\N\ki 2 2019\Kien truc\Tai Lieu\BTLKT\DHKTPM13A_TDNguyen_PDLoi_PTBinh\WcfServicePhongChieuPhim\bin\Debug\CodeFirst_DAL.pdb
+E:\N\ki 2 2019\Kien truc\Tai Lieu\BTLKT\DHKTPM13A_TDNguyen_PDLoi_PTBinh\WcfServicePhongChieuPhim\bin\Debug\CodeFirst_DAL.dll.config
+E:\N\ki 2 2019\Kien truc\Tai Lieu\BTLKT\DHKTPM13A_TDNguyen_PDLoi_PTBinh\WcfServicePhongChieuPhim\bin\Debug\Entities.pdb
+E:\N\ki 2 2019\Kien truc\Tai Lieu\BTLKT\DHKTPM13A_TDNguyen_PDLoi_PTBinh\WcfServicePhongChieuPhim\bin\Debug\EntityFramework.xml
+E:\N\ki 2 2019\Kien truc\Tai Lieu\BTLKT\DHKTPM13A_TDNguyen_PDLoi_PTBinh\WcfServicePhongChieuPhim\bin\Debug\EntityFramework.SqlServer.xml
+E:\N\ki 2 2019\Kien truc\Tai Lieu\BTLKT\DHKTPM13A_TDNguyen_PDLoi_PTBinh\WcfServicePhongChieuPhim\obj\Debug\WcfServicePhongChieuPhim.csproj.CopyComplete
+E:\N\ki 2 2019\Kien truc\Tai Lieu\BTLKT\DHKTPM13A_TDNguyen_PDLoi_PTBinh\WcfServicePhongChieuPhim\obj\Debug\WcfServicePhongChieuPhim.dll
+E:\N\ki 2 2019\Kien truc\Tai Lieu\BTLKT\DHKTPM13A_TDNguyen_PDLoi_PTBinh\WcfServicePhongChieuPhim\obj\Debug\WcfServicePhongChieuPhim.pdb
+E:\N\ki 2 2019\Kien truc\KTTKPM_DHKTPM13A_BAITAPLON_NHOM14\SOURCECODE\DHKTPM13A_TDNguyen_PDLoi_PTBinh\WcfServicePhongChieuPhim\bin\Debug\WcfServicePhongChieuPhim.dll.config
+E:\N\ki 2 2019\Kien truc\KTTKPM_DHKTPM13A_BAITAPLON_NHOM14\SOURCECODE\DHKTPM13A_TDNguyen_PDLoi_PTBinh\WcfServicePhongChieuPhim\bin\Debug\WcfServicePhongChieuPhim.dll
+E:\N\ki 2 2019\Kien truc\KTTKPM_DHKTPM13A_BAITAPLON_NHOM14\SOURCECODE\DHKTPM13A_TDNguyen_PDLoi_PTBinh\WcfServicePhongChieuPhim\bin\Debug\WcfServicePhongChieuPhim.pdb
+E:\N\ki 2 2019\Kien truc\KTTKPM_DHKTPM13A_BAITAPLON_NHOM14\SOURCECODE\DHKTPM13A_TDNguyen_PDLoi_PTBinh\WcfServicePhongChieuPhim\bin\Debug\CodeFirst_DAL.dll
+E:\N\ki 2 2019\Kien truc\KTTKPM_DHKTPM13A_BAITAPLON_NHOM14\SOURCECODE\DHKTPM13A_TDNguyen_PDLoi_PTBinh\WcfServicePhongChieuPhim\bin\Debug\Entities.dll
+E:\N\ki 2 2019\Kien truc\KTTKPM_DHKTPM13A_BAITAPLON_NHOM14\SOURCECODE\DHKTPM13A_TDNguyen_PDLoi_PTBinh\WcfServicePhongChieuPhim\bin\Debug\EntityFramework.dll
+E:\N\ki 2 2019\Kien truc\KTTKPM_DHKTPM13A_BAITAPLON_NHOM14\SOURCECODE\DHKTPM13A_TDNguyen_PDLoi_PTBinh\WcfServicePhongChieuPhim\bin\Debug\EntityFramework.SqlServer.dll
+E:\N\ki 2 2019\Kien truc\KTTKPM_DHKTPM13A_BAITAPLON_NHOM14\SOURCECODE\DHKTPM13A_TDNguyen_PDLoi_PTBinh\WcfServicePhongChieuPhim\bin\Debug\CodeFirst_DAL.pdb
+E:\N\ki 2 2019\Kien truc\KTTKPM_DHKTPM13A_BAITAPLON_NHOM14\SOURCECODE\DHKTPM13A_TDNguyen_PDLoi_PTBinh\WcfServicePhongChieuPhim\bin\Debug\CodeFirst_DAL.dll.config
+E:\N\ki 2 2019\Kien truc\KTTKPM_DHKTPM13A_BAITAPLON_NHOM14\SOURCECODE\DHKTPM13A_TDNguyen_PDLoi_PTBinh\WcfServicePhongChieuPhim\bin\Debug\Entities.pdb
+E:\N\ki 2 2019\Kien truc\KTTKPM_DHKTPM13A_BAITAPLON_NHOM14\SOURCECODE\DHKTPM13A_TDNguyen_PDLoi_PTBinh\WcfServicePhongChieuPhim\bin\Debug\EntityFramework.xml
+E:\N\ki 2 2019\Kien truc\KTTKPM_DHKTPM13A_BAITAPLON_NHOM14\SOURCECODE\DHKTPM13A_TDNguyen_PDLoi_PTBinh\WcfServicePhongChieuPhim\bin\Debug\EntityFramework.SqlServer.xml
+E:\N\ki 2 2019\Kien truc\KTTKPM_DHKTPM13A_BAITAPLON_NHOM14\SOURCECODE\DHKTPM13A_TDNguyen_PDLoi_PTBinh\WcfServicePhongChieuPhim\obj\Debug\WcfServicePhongChieuPhim.csprojAssemblyReference.cache
+E:\N\ki 2 2019\Kien truc\KTTKPM_DHKTPM13A_BAITAPLON_NHOM14\SOURCECODE\DHKTPM13A_TDNguyen_PDLoi_PTBinh\WcfServicePhongChieuPhim\obj\Debug\WcfServicePhongChieuPhim.csproj.CoreCompileInputs.cache
+E:\N\ki 2 2019\Kien truc\KTTKPM_DHKTPM13A_BAITAPLON_NHOM14\SOURCECODE\DHKTPM13A_TDNguyen_PDLoi_PTBinh\WcfServicePhongChieuPhim\obj\Debug\WcfServicePhongChieuPhim.csproj.CopyComplete
+E:\N\ki 2 2019\Kien truc\KTTKPM_DHKTPM13A_BAITAPLON_NHOM14\SOURCECODE\DHKTPM13A_TDNguyen_PDLoi_PTBinh\WcfServicePhongChieuPhim\obj\Debug\WcfServicePhongChieuPhim.dll
+E:\N\ki 2 2019\Kien truc\KTTKPM_DHKTPM13A_BAITAPLON_NHOM14\SOURCECODE\DHKTPM13A_TDNguyen_PDLoi_PTBinh\WcfServicePhongChieuPhim\obj\Debug\WcfServicePhongChieuPhim.pdb
+E:\N\ki 2 2019\Kien truc\KTTKPM_DHKTPM13A_BAITAPLON_NHOM14\SOURCECODE\DHKTPM13A_TDNguyen_PDLoi_PTBinh\WcfServicePhongChieuPhim\bin\Debug\HinhAnh\DichVu\Bap.png
+E:\N\ki 2 2019\Kien truc\KTTKPM_DHKTPM13A_BAITAPLON_NHOM14\SOURCECODE\DHKTPM13A_TDNguyen_PDLoi_PTBinh\WcfServicePhongChieuPhim\bin\Debug\HinhAnh\DichVu\Coca.png
+E:\N\ki 2 2019\Kien truc\KTTKPM_DHKTPM13A_BAITAPLON_NHOM14\SOURCECODE\DHKTPM13A_TDNguyen_PDLoi_PTBinh\WcfServicePhongChieuPhim\bin\Debug\HinhAnh\DichVu\Fanta.png
+E:\N\ki 2 2019\Kien truc\KTTKPM_DHKTPM13A_BAITAPLON_NHOM14\SOURCECODE\DHKTPM13A_TDNguyen_PDLoi_PTBinh\WcfServicePhongChieuPhim\bin\Debug\HinhAnh\Poster\ConMuaTinhDau.PNG
+E:\N\ki 2 2019\Kien truc\KTTKPM_DHKTPM13A_BAITAPLON_NHOM14\SOURCECODE\DHKTPM13A_TDNguyen_PDLoi_PTBinh\WcfServicePhongChieuPhim\bin\Debug\HinhAnh\Poster\Fukushima50.PNG
+E:\N\ki 2 2019\Kien truc\KTTKPM_DHKTPM13A_BAITAPLON_NHOM14\SOURCECODE\DHKTPM13A_TDNguyen_PDLoi_PTBinh\WcfServicePhongChieuPhim\bin\Debug\HinhAnh\Poster\GiaTaiToiLoi.PNG
+E:\N\ki 2 2019\Kien truc\KTTKPM_DHKTPM13A_BAITAPLON_NHOM14\SOURCECODE\DHKTPM13A_TDNguyen_PDLoi_PTBinh\WcfServicePhongChieuPhim\bin\Debug\HinhAnh\Poster\IzOne..PNG
+E:\N\ki 2 2019\Kien truc\KTTKPM_DHKTPM13A_BAITAPLON_NHOM14\SOURCECODE\DHKTPM13A_TDNguyen_PDLoi_PTBinh\WcfServicePhongChieuPhim\bin\Debug\HinhAnh\Poster\LoiNguyenShirai.PNG
+E:\N\ki 2 2019\Kien truc\KTTKPM_DHKTPM13A_BAITAPLON_NHOM14\SOURCECODE\DHKTPM13A_TDNguyen_PDLoi_PTBinh\WcfServicePhongChieuPhim\bin\Debug\HinhAnh\Poster\MeQuy.PNG
+E:\N\ki 2 2019\Kien truc\KTTKPM_DHKTPM13A_BAITAPLON_NHOM14\SOURCECODE\DHKTPM13A_TDNguyen_PDLoi_PTBinh\WcfServicePhongChieuPhim\bin\Debug\HinhAnh\Poster\Midway.PNG
+E:\N\ki 2 2019\Kien truc\KTTKPM_DHKTPM13A_BAITAPLON_NHOM14\SOURCECODE\DHKTPM13A_TDNguyen_PDLoi_PTBinh\WcfServicePhongChieuPhim\bin\Debug\HinhAnh\Poster\NhimSoc.PNG
+E:\N\ki 2 2019\Kien truc\KTTKPM_DHKTPM13A_BAITAPLON_NHOM14\SOURCECODE\DHKTPM13A_TDNguyen_PDLoi_PTBinh\WcfServicePhongChieuPhim\bin\Debug\HinhAnh\Poster\OngKe.PNG
+E:\N\ki 2 2019\Kien truc\KTTKPM_DHKTPM13A_BAITAPLON_NHOM14\SOURCECODE\DHKTPM13A_TDNguyen_PDLoi_PTBinh\WcfServicePhongChieuPhim\bin\Debug\HinhAnh\Poster\QuyLunTinhNghich.PNG
+E:\N\ki 2 2019\Kien truc\KTTKPM_DHKTPM13A_BAITAPLON_NHOM14\SOURCECODE\DHKTPM13A_TDNguyen_PDLoi_PTBinh\WcfServicePhongChieuPhim\bin\Debug\HinhAnh\Poster\Soi100%.PNG
+D:\C#\New folder\KTTKPM_DHKTPM13A_BAITAPLON_NHOM14\SOURCECODE\DHKTPM13A_TDNguyen_PDLoi_PTBinh\WcfServicePhongChieuPhim\bin\Debug\HinhAnh\DichVu\Bap.png
+D:\C#\New folder\KTTKPM_DHKTPM13A_BAITAPLON_NHOM14\SOURCECODE\DHKTPM13A_TDNguyen_PDLoi_PTBinh\WcfServicePhongChieuPhim\bin\Debug\HinhAnh\DichVu\Coca.png
+D:\C#\New folder\KTTKPM_DHKTPM13A_BAITAPLON_NHOM14\SOURCECODE\DHKTPM13A_TDNguyen_PDLoi_PTBinh\WcfServicePhongChieuPhim\bin\Debug\HinhAnh\DichVu\Fanta.png
+D:\C#\New folder\KTTKPM_DHKTPM13A_BAITAPLON_NHOM14\SOURCECODE\DHKTPM13A_TDNguyen_PDLoi_PTBinh\WcfServicePhongChieuPhim\bin\Debug\HinhAnh\Poster\ConMuaTinhDau.PNG
+D:\C#\New folder\KTTKPM_DHKTPM13A_BAITAPLON_NHOM14\SOURCECODE\DHKTPM13A_TDNguyen_PDLoi_PTBinh\WcfServicePhongChieuPhim\bin\Debug\HinhAnh\Poster\Fukushima50.PNG
+D:\C#\New folder\KTTKPM_DHKTPM13A_BAITAPLON_NHOM14\SOURCECODE\DHKTPM13A_TDNguyen_PDLoi_PTBinh\WcfServicePhongChieuPhim\bin\Debug\HinhAnh\Poster\GiaTaiToiLoi.PNG
+D:\C#\New folder\KTTKPM_DHKTPM13A_BAITAPLON_NHOM14\SOURCECODE\DHKTPM13A_TDNguyen_PDLoi_PTBinh\WcfServicePhongChieuPhim\bin\Debug\HinhAnh\Poster\IzOne..PNG
+D:\C#\New folder\KTTKPM_DHKTPM13A_BAITAPLON_NHOM14\SOURCECODE\DHKTPM13A_TDNguyen_PDLoi_PTBinh\WcfServicePhongChieuPhim\bin\Debug\HinhAnh\Poster\LoiNguyenShirai.PNG
+D:\C#\New folder\KTTKPM_DHKTPM13A_BAITAPLON_NHOM14\SOURCECODE\DHKTPM13A_TDNguyen_PDLoi_PTBinh\WcfServicePhongChieuPhim\bin\Debug\HinhAnh\Poster\MeQuy.PNG
+D:\C#\New folder\KTTKPM_DHKTPM13A_BAITAPLON_NHOM14\SOURCECODE\DHKTPM13A_TDNguyen_PDLoi_PTBinh\WcfServicePhongChieuPhim\bin\Debug\HinhAnh\Poster\Midway.PNG
+D:\C#\New folder\KTTKPM_DHKTPM13A_BAITAPLON_NHOM14\SOURCECODE\DHKTPM13A_TDNguyen_PDLoi_PTBinh\WcfServicePhongChieuPhim\bin\Debug\HinhAnh\Poster\NhimSoc.PNG
+D:\C#\New folder\KTTKPM_DHKTPM13A_BAITAPLON_NHOM14\SOURCECODE\DHKTPM13A_TDNguyen_PDLoi_PTBinh\WcfServicePhongChieuPhim\bin\Debug\HinhAnh\Poster\OngKe.PNG
+D:\C#\New folder\KTTKPM_DHKTPM13A_BAITAPLON_NHOM14\SOURCECODE\DHKTPM13A_TDNguyen_PDLoi_PTBinh\WcfServicePhongChieuPhim\bin\Debug\HinhAnh\Poster\QuyLunTinhNghich.PNG
+D:\C#\New folder\KTTKPM_DHKTPM13A_BAITAPLON_NHOM14\SOURCECODE\DHKTPM13A_TDNguyen_PDLoi_PTBinh\WcfServicePhongChieuPhim\bin\Debug\HinhAnh\Poster\Soi100%.PNG
+D:\C#\New folder\KTTKPM_DHKTPM13A_BAITAPLON_NHOM14\SOURCECODE\DHKTPM13A_TDNguyen_PDLoi_PTBinh\WcfServicePhongChieuPhim\bin\Debug\WcfServicePhongChieuPhim.dll.config
+D:\C#\New folder\KTTKPM_DHKTPM13A_BAITAPLON_NHOM14\SOURCECODE\DHKTPM13A_TDNguyen_PDLoi_PTBinh\WcfServicePhongChieuPhim\bin\Debug\WcfServicePhongChieuPhim.dll
+D:\C#\New folder\KTTKPM_DHKTPM13A_BAITAPLON_NHOM14\SOURCECODE\DHKTPM13A_TDNguyen_PDLoi_PTBinh\WcfServicePhongChieuPhim\bin\Debug\WcfServicePhongChieuPhim.pdb
+D:\C#\New folder\KTTKPM_DHKTPM13A_BAITAPLON_NHOM14\SOURCECODE\DHKTPM13A_TDNguyen_PDLoi_PTBinh\WcfServicePhongChieuPhim\bin\Debug\CodeFirst_DAL.dll
+D:\C#\New folder\KTTKPM_DHKTPM13A_BAITAPLON_NHOM14\SOURCECODE\DHKTPM13A_TDNguyen_PDLoi_PTBinh\WcfServicePhongChieuPhim\bin\Debug\Entities.dll
+D:\C#\New folder\KTTKPM_DHKTPM13A_BAITAPLON_NHOM14\SOURCECODE\DHKTPM13A_TDNguyen_PDLoi_PTBinh\WcfServicePhongChieuPhim\bin\Debug\EntityFramework.dll
+D:\C#\New folder\KTTKPM_DHKTPM13A_BAITAPLON_NHOM14\SOURCECODE\DHKTPM13A_TDNguyen_PDLoi_PTBinh\WcfServicePhongChieuPhim\bin\Debug\EntityFramework.SqlServer.dll
+D:\C#\New folder\KTTKPM_DHKTPM13A_BAITAPLON_NHOM14\SOURCECODE\DHKTPM13A_TDNguyen_PDLoi_PTBinh\WcfServicePhongChieuPhim\bin\Debug\CodeFirst_DAL.pdb
+D:\C#\New folder\KTTKPM_DHKTPM13A_BAITAPLON_NHOM14\SOURCECODE\DHKTPM13A_TDNguyen_PDLoi_PTBinh\WcfServicePhongChieuPhim\bin\Debug\CodeFirst_DAL.dll.config
+D:\C#\New folder\KTTKPM_DHKTPM13A_BAITAPLON_NHOM14\SOURCECODE\DHKTPM13A_TDNguyen_PDLoi_PTBinh\WcfServicePhongChieuPhim\bin\Debug\Entities.pdb
+D:\C#\New folder\KTTKPM_DHKTPM13A_BAITAPLON_NHOM14\SOURCECODE\DHKTPM13A_TDNguyen_PDLoi_PTBinh\WcfServicePhongChieuPhim\bin\Debug\EntityFramework.xml
+D:\C#\New folder\KTTKPM_DHKTPM13A_BAITAPLON_NHOM14\SOURCECODE\DHKTPM13A_TDNguyen_PDLoi_PTBinh\WcfServicePhongChieuPhim\bin\Debug\EntityFramework.SqlServer.xml
+D:\C#\New folder\KTTKPM_DHKTPM13A_BAITAPLON_NHOM14\SOURCECODE\DHKTPM13A_TDNguyen_PDLoi_PTBinh\WcfServicePhongChieuPhim\obj\Debug\WcfServicePhongChieuPhim.csprojAssemblyReference.cache
+D:\C#\New folder\KTTKPM_DHKTPM13A_BAITAPLON_NHOM14\SOURCECODE\DHKTPM13A_TDNguyen_PDLoi_PTBinh\WcfServicePhongChieuPhim\obj\Debug\WcfServicePhongChieuPhim.csproj.CoreCompileInputs.cache
+D:\C#\New folder\KTTKPM_DHKTPM13A_BAITAPLON_NHOM14\SOURCECODE\DHKTPM13A_TDNguyen_PDLoi_PTBinh\WcfServicePhongChieuPhim\obj\Debug\WcfServicePhongChieuPhim.csproj.CopyComplete
+D:\C#\New folder\KTTKPM_DHKTPM13A_BAITAPLON_NHOM14\SOURCECODE\DHKTPM13A_TDNguyen_PDLoi_PTBinh\WcfServicePhongChieuPhim\obj\Debug\WcfServicePhongChieuPhim.dll
+D:\C#\New folder\KTTKPM_DHKTPM13A_BAITAPLON_NHOM14\SOURCECODE\DHKTPM13A_TDNguyen_PDLoi_PTBinh\WcfServicePhongChieuPhim\obj\Debug\WcfServicePhongChieuPhim.pdb

@@ -1,0 +1,18 @@
+E:\N\ki 2 2019\Kien truc\Tai Lieu\BTLKT\DHKTPM13A_TDNguyen_PDLoi_PTBinh\Entities\bin\Debug\Entities.dll
+E:\N\ki 2 2019\Kien truc\Tai Lieu\BTLKT\DHKTPM13A_TDNguyen_PDLoi_PTBinh\Entities\bin\Debug\Entities.pdb
+E:\N\ki 2 2019\Kien truc\Tai Lieu\BTLKT\DHKTPM13A_TDNguyen_PDLoi_PTBinh\Entities\obj\Debug\Entities.csprojAssemblyReference.cache
+E:\N\ki 2 2019\Kien truc\Tai Lieu\BTLKT\DHKTPM13A_TDNguyen_PDLoi_PTBinh\Entities\obj\Debug\Entities.csproj.CoreCompileInputs.cache
+E:\N\ki 2 2019\Kien truc\Tai Lieu\BTLKT\DHKTPM13A_TDNguyen_PDLoi_PTBinh\Entities\obj\Debug\Entities.dll
+E:\N\ki 2 2019\Kien truc\Tai Lieu\BTLKT\DHKTPM13A_TDNguyen_PDLoi_PTBinh\Entities\obj\Debug\Entities.pdb
+E:\N\ki 2 2019\Kien truc\KTTKPM_DHKTPM13A_BAITAPLON_NHOM14\SOURCECODE\DHKTPM13A_TDNguyen_PDLoi_PTBinh\Entities\bin\Debug\Entities.dll
+E:\N\ki 2 2019\Kien truc\KTTKPM_DHKTPM13A_BAITAPLON_NHOM14\SOURCECODE\DHKTPM13A_TDNguyen_PDLoi_PTBinh\Entities\bin\Debug\Entities.pdb
+E:\N\ki 2 2019\Kien truc\KTTKPM_DHKTPM13A_BAITAPLON_NHOM14\SOURCECODE\DHKTPM13A_TDNguyen_PDLoi_PTBinh\Entities\obj\Debug\Entities.csprojAssemblyReference.cache
+E:\N\ki 2 2019\Kien truc\KTTKPM_DHKTPM13A_BAITAPLON_NHOM14\SOURCECODE\DHKTPM13A_TDNguyen_PDLoi_PTBinh\Entities\obj\Debug\Entities.csproj.CoreCompileInputs.cache
+E:\N\ki 2 2019\Kien truc\KTTKPM_DHKTPM13A_BAITAPLON_NHOM14\SOURCECODE\DHKTPM13A_TDNguyen_PDLoi_PTBinh\Entities\obj\Debug\Entities.dll
+E:\N\ki 2 2019\Kien truc\KTTKPM_DHKTPM13A_BAITAPLON_NHOM14\SOURCECODE\DHKTPM13A_TDNguyen_PDLoi_PTBinh\Entities\obj\Debug\Entities.pdb
+D:\C#\New folder\KTTKPM_DHKTPM13A_BAITAPLON_NHOM14\SOURCECODE\DHKTPM13A_TDNguyen_PDLoi_PTBinh\Entities\bin\Debug\Entities.dll
+D:\C#\New folder\KTTKPM_DHKTPM13A_BAITAPLON_NHOM14\SOURCECODE\DHKTPM13A_TDNguyen_PDLoi_PTBinh\Entities\bin\Debug\Entities.pdb
+D:\C#\New folder\KTTKPM_DHKTPM13A_BAITAPLON_NHOM14\SOURCECODE\DHKTPM13A_TDNguyen_PDLoi_PTBinh\Entities\obj\Debug\Entities.csprojAssemblyReference.cache
+D:\C#\New folder\KTTKPM_DHKTPM13A_BAITAPLON_NHOM14\SOURCECODE\DHKTPM13A_TDNguyen_PDLoi_PTBinh\Entities\obj\Debug\Entities.csproj.CoreCompileInputs.cache
+D:\C#\New folder\KTTKPM_DHKTPM13A_BAITAPLON_NHOM14\SOURCECODE\DHKTPM13A_TDNguyen_PDLoi_PTBinh\Entities\obj\Debug\Entities.dll
+D:\C#\New folder\KTTKPM_DHKTPM13A_BAITAPLON_NHOM14\SOURCECODE\DHKTPM13A_TDNguyen_PDLoi_PTBinh\Entities\obj\Debug\Entities.pdb

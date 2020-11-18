@@ -1,0 +1,209 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema xmlns:tns="http://schemas.datacontract.org/2004/07/Entities" elementFormDefault="qualified" targetNamespace="http://schemas.datacontract.org/2004/07/Entities" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+  <xs:complexType name="eNhanVien">
+    <xs:sequence>
+      <xs:element minOccurs="0" name="Anh" nillable="true" type="xs:base64Binary" />
+      <xs:element minOccurs="0" name="CMND" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="ChucVu" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="Email" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="MaNhanVien" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="MatKhau" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="NgaySinh" nillable="true" type="xs:dateTime" />
+      <xs:element minOccurs="0" name="SDT" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="TenNhanVien" nillable="true" type="xs:string" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:element name="eNhanVien" nillable="true" type="tns:eNhanVien" />
+  <xs:complexType name="ArrayOfeNhanVien">
+    <xs:sequence>
+      <xs:element minOccurs="0" maxOccurs="unbounded" name="eNhanVien" nillable="true" type="tns:eNhanVien" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:element name="ArrayOfeNhanVien" nillable="true" type="tns:ArrayOfeNhanVien" />
+  <xs:complexType name="eKhachHang">
+    <xs:sequence>
+      <xs:element minOccurs="0" name="CMND" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="Email" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="MaKhachHang" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="NgaySinh" nillable="true" type="xs:dateTime" />
+      <xs:element minOccurs="0" name="SDT" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="TenKhachHang" nillable="true" type="xs:string" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:element name="eKhachHang" nillable="true" type="tns:eKhachHang" />
+  <xs:complexType name="ArrayOfeKhachHang">
+    <xs:sequence>
+      <xs:element minOccurs="0" maxOccurs="unbounded" name="eKhachHang" nillable="true" type="tns:eKhachHang" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:element name="ArrayOfeKhachHang" nillable="true" type="tns:ArrayOfeKhachHang" />
+  <xs:complexType name="eHoaDon">
+    <xs:sequence>
+      <xs:element minOccurs="0" name="MaHoaDon" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="MaKhachHang" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="MaNhanVien" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="NgayLap" nillable="true" type="xs:dateTime" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:element name="eHoaDon" nillable="true" type="tns:eHoaDon" />
+  <xs:complexType name="ArrayOfeHoaDon">
+    <xs:sequence>
+      <xs:element minOccurs="0" maxOccurs="unbounded" name="eHoaDon" nillable="true" type="tns:eHoaDon" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:element name="ArrayOfeHoaDon" nillable="true" type="tns:ArrayOfeHoaDon" />
+  <xs:complexType name="eCT_HoaDon_DichVu">
+    <xs:sequence>
+      <xs:element minOccurs="0" name="MaDichVu" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="MaHoaDon" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="SoLuong" type="xs:int" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:element name="eCT_HoaDon_DichVu" nillable="true" type="tns:eCT_HoaDon_DichVu" />
+  <xs:complexType name="ArrayOfeCT_HoaDon_DichVu">
+    <xs:sequence>
+      <xs:element minOccurs="0" maxOccurs="unbounded" name="eCT_HoaDon_DichVu" nillable="true" type="tns:eCT_HoaDon_DichVu" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:element name="ArrayOfeCT_HoaDon_DichVu" nillable="true" type="tns:ArrayOfeCT_HoaDon_DichVu" />
+  <xs:complexType name="eDichVu">
+    <xs:sequence>
+      <xs:element minOccurs="0" name="Anh" nillable="true" type="xs:base64Binary" />
+      <xs:element minOccurs="0" name="DonGia" type="xs:double" />
+      <xs:element minOccurs="0" name="MaDichVu" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="TenDichVu" nillable="true" type="xs:string" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:element name="eDichVu" nillable="true" type="tns:eDichVu" />
+  <xs:complexType name="ArrayOfeDichVu">
+    <xs:sequence>
+      <xs:element minOccurs="0" maxOccurs="unbounded" name="eDichVu" nillable="true" type="tns:eDichVu" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:element name="ArrayOfeDichVu" nillable="true" type="tns:ArrayOfeDichVu" />
+  <xs:complexType name="eVe">
+    <xs:sequence>
+      <xs:element minOccurs="0" name="MaHoaDon" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="MaXuat" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="VitriGhe" nillable="true" type="xs:string" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:element name="eVe" nillable="true" type="tns:eVe" />
+  <xs:complexType name="ArrayOfeVe">
+    <xs:sequence>
+      <xs:element minOccurs="0" maxOccurs="unbounded" name="eVe" nillable="true" type="tns:eVe" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:element name="ArrayOfeVe" nillable="true" type="tns:ArrayOfeVe" />
+  <xs:complexType name="eXuatChieu">
+    <xs:sequence>
+      <xs:element minOccurs="0" name="GiaVe" type="xs:double" />
+      <xs:element minOccurs="0" name="MaPhim" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="MaPhong" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="MaXuat" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="ThoiDiem" nillable="true" type="xs:dateTime" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:element name="eXuatChieu" nillable="true" type="tns:eXuatChieu" />
+  <xs:complexType name="ArrayOfeXuatChieu">
+    <xs:sequence>
+      <xs:element minOccurs="0" maxOccurs="unbounded" name="eXuatChieu" nillable="true" type="tns:eXuatChieu" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:element name="ArrayOfeXuatChieu" nillable="true" type="tns:ArrayOfeXuatChieu" />
+  <xs:complexType name="ePhongChieu">
+    <xs:sequence>
+      <xs:element minOccurs="0" name="MaPhong" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="TenPhong" nillable="true" type="xs:string" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:element name="ePhongChieu" nillable="true" type="tns:ePhongChieu" />
+  <xs:complexType name="ArrayOfePhongChieu">
+    <xs:sequence>
+      <xs:element minOccurs="0" maxOccurs="unbounded" name="ePhongChieu" nillable="true" type="tns:ePhongChieu" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:element name="ArrayOfePhongChieu" nillable="true" type="tns:ArrayOfePhongChieu" />
+  <xs:complexType name="ArrayOfeGheNgoi">
+    <xs:sequence>
+      <xs:element minOccurs="0" maxOccurs="unbounded" name="eGheNgoi" nillable="true" type="tns:eGheNgoi" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:element name="ArrayOfeGheNgoi" nillable="true" type="tns:ArrayOfeGheNgoi" />
+  <xs:complexType name="eGheNgoi">
+    <xs:sequence>
+      <xs:element minOccurs="0" name="Hang" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="MaGhe" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="MaPhong" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="So" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="TrangThai" nillable="true" type="xs:string" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:element name="eGheNgoi" nillable="true" type="tns:eGheNgoi" />
+  <xs:complexType name="ePhim">
+    <xs:sequence>
+      <xs:element minOccurs="0" name="DaoDien" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="DienVienChinh" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="GioiHanDoTuoi" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="MaNSX" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="MaPhim" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="MoTa" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="NgayCongChieu" nillable="true" type="xs:dateTime" />
+      <xs:element minOccurs="0" name="NgonNgu" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="Poster" nillable="true" type="xs:base64Binary" />
+      <xs:element minOccurs="0" name="TenPhim" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="TheLoai" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="ThoiLuong" type="xs:int" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:element name="ePhim" nillable="true" type="tns:ePhim" />
+  <xs:complexType name="ArrayOfePhim">
+    <xs:sequence>
+      <xs:element minOccurs="0" maxOccurs="unbounded" name="ePhim" nillable="true" type="tns:ePhim" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:element name="ArrayOfePhim" nillable="true" type="tns:ArrayOfePhim" />
+  <xs:complexType name="eNhaSanXuat">
+    <xs:sequence>
+      <xs:element minOccurs="0" name="MaNSX" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="QuocGia" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="TenNSX" nillable="true" type="xs:string" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:element name="eNhaSanXuat" nillable="true" type="tns:eNhaSanXuat" />
+  <xs:complexType name="ArrayOfeNhaSanXuat">
+    <xs:sequence>
+      <xs:element minOccurs="0" maxOccurs="unbounded" name="eNhaSanXuat" nillable="true" type="tns:eNhaSanXuat" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:element name="ArrayOfeNhaSanXuat" nillable="true" type="tns:ArrayOfeNhaSanXuat" />
+  <xs:complexType name="ArrayOfeThongKeDoanhThuVe">
+    <xs:sequence>
+      <xs:element minOccurs="0" maxOccurs="unbounded" name="eThongKeDoanhThuVe" nillable="true" type="tns:eThongKeDoanhThuVe" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:element name="ArrayOfeThongKeDoanhThuVe" nillable="true" type="tns:ArrayOfeThongKeDoanhThuVe" />
+  <xs:complexType name="eThongKeDoanhThuVe">
+    <xs:sequence>
+      <xs:element minOccurs="0" name="MaHoaDon" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="NgayLap" nillable="true" type="xs:dateTime" />
+      <xs:element minOccurs="0" name="TongTien" type="xs:double" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:element name="eThongKeDoanhThuVe" nillable="true" type="tns:eThongKeDoanhThuVe" />
+  <xs:complexType name="ArrayOfeThongKeCTHD">
+    <xs:sequence>
+      <xs:element minOccurs="0" maxOccurs="unbounded" name="eThongKeCTHD" nillable="true" type="tns:eThongKeCTHD" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:element name="ArrayOfeThongKeCTHD" nillable="true" type="tns:ArrayOfeThongKeCTHD" />
+  <xs:complexType name="eThongKeCTHD">
+    <xs:sequence>
+      <xs:element minOccurs="0" name="DonGia" type="xs:double" />
+      <xs:element minOccurs="0" name="SoLuong" type="xs:int" />
+      <xs:element minOccurs="0" name="TenSanPham" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="TongCong" type="xs:double" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:element name="eThongKeCTHD" nillable="true" type="tns:eThongKeCTHD" />
+</xs:schema>
